@@ -2,7 +2,7 @@
 
 ## Overview and Origin
   
-The name of the company is Betterment. This company was  incorporated in August 2008. The founders of the company were Jon Stein, a Columbia Business School MBA graduate, and Eli Broverman, a lawyer out of NYU School of Law.  
+The name of the company is Betterment. Betterment was founded in August 2008 in New York City by Jon Stein, a Columbia Business School MBA graduate, and Eli Broverman, a lawyer out of NYU School of Law. 
 
 The founder started Betterment when it occurred to him that the concepts he had learned while studying behavioral economics and biology in college could actually apply to the many mistakes he was making in managing his own investments. Throughout his trading journey, he had made a lot of mistakes in investment. While economics is good at explaining the world at a macro level, it fails to explain human behavior. He then wanted a service that did all of this for him: told him what to do with his money, and then did it. He realized that the only way he was going to get something like that was to build it himself.  
 
